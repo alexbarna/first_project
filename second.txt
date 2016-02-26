@@ -2,3 +2,4 @@ It's a new file.
 New line.
 Edited line here!!
 Local edit...
+No conflict with Master
